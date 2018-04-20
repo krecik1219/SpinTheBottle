@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpinTheBottle</string>
+    <string name="bottle_desc">Bottle that is being spinned</string>
+</resources>
